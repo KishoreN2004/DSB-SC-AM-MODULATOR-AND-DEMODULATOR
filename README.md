@@ -63,8 +63,21 @@ Note: Keep all the switch faults in off position
 
 ## PROGRAM:
 
+<img width="541" height="847" alt="Screenshot 2025-08-21 153631" src="https://github.com/user-attachments/assets/73521030-b372-4615-838c-f01f7685a077" />
+
+<img width="537" height="113" alt="Screenshot 2025-10-16 184641" src="https://github.com/user-attachments/assets/302e2303-2547-43c7-80ec-ec43f1ef36dc" />
+
+
 ## TABULATION:
+
+![IMG-20251016-WA0022](https://github.com/user-attachments/assets/534c3885-cb74-42cc-abbd-479ddb73affd)
+
 
 ## OUTPUT:
 
+<img width="1780" height="885" alt="Screenshot 2025-08-21 153243" src="https://github.com/user-attachments/assets/d51e4690-c8d7-4698-b7d2-a9f841cf3204" />
+
+
 ## RESULT:
+
+Thus the DSB-SC-AM Modulation and Demodulation is generated.
